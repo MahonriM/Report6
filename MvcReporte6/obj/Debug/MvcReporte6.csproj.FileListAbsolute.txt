@@ -1,0 +1,7 @@
+c:\users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\bin\MvcReporte6.dll
+c:\users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\bin\MvcReporte6.pdb
+c:\users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\obj\Debug\MvcReporte6.csprojResolveAssemblyReference.cache
+c:\users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\obj\Debug\MvcReporte6.dll
+c:\users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\obj\Debug\MvcReporte6.pdb
+C:\Users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\bin\IBM.Data.DB2.dll
+C:\Users\chumo\documents\visual studio 2010\Projects\MvcReporte6\MvcReporte6\bin\IBM.Data.Informix.dll
